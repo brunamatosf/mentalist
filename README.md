@@ -8,3 +8,9 @@ You will receive hints informing if the number is higher or lower, after 3 wrong
 
 
 ![image](https://user-images.githubusercontent.com/99752585/154124446-197cd4ea-f4dd-42c5-aecb-4e168f709571.png)
+
+
+TECNOLOGIAS
+- HTML
+- CSS
+- JAVASCRIPT
